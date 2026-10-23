@@ -1,0 +1,12 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+jupyterlab>=4.0
+# Optional: semantic search (Part 4.4) - downloads a ~90 MB model on first run
+sentence-transformers>=3.0
+# Optional: JavaScript rendering demo (Part 3.2) - then run: playwright install chromium
+# playwright>=1.45
+curl_cffi
